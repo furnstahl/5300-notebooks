@@ -2,7 +2,7 @@
 
 Binder links:
 
-* All week 1 notebooks
+* All week 1 notebooks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/furnstahl/5300-notebooks/master?filepath=week_1)
 
 * Python and Jupyter notebooks: part 01
 
