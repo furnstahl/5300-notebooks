@@ -8,4 +8,6 @@ Binder links:
 
 * Taylor, problem 1.50
 
+* Taylor, problem 1.39
+
 * Pendulum visualization using ipywidgets (demo!) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/furnstahl/5300-notebooks/master?filepath=week_1%2FPendulum_widget_visualization_v01.3.ipynb)
