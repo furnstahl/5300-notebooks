@@ -6,7 +6,7 @@ Binder links:
 
 * Python and Jupyter notebooks: part 01 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/furnstahl/5300-notebooks/master?filepath=week_1%2F5300_Jupyter_Python_intro_01.ipynb)
 
-* Taylor, problem 1.50
+* Taylor, problem 1.50 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/furnstahl/5300-notebooks/master?filepath=week_1%2FTaylor_problem_1.50.ipynb)
 
 * Taylor, problem 1.39 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/furnstahl/5300-notebooks/master?filepath=week_1%2FTaylor_problem_1.39.ipynb)
 
