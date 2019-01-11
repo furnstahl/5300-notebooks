@@ -21,3 +21,5 @@ Binder links:
 * Taylor, problem 2.43 template (you fill in blanks) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/furnstahl/5300-notebooks/master?filepath=week_1%2FTaylor_problem_2.43_template.ipynb) 
 
 * Taylor, problem 3.23 (just change some parameters) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/furnstahl/5300-notebooks/master?filepath=week_1%2FTaylor_problem_3.23.ipynb)
+
+* Taylor, problem 4.29 (change the function) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/furnstahl/5300-notebooks/master?filepath=week_1%2FTaylor_problem_4.29_template.ipynb)
