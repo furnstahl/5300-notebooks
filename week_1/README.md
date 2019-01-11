@@ -23,3 +23,5 @@ Binder links:
 * Taylor, problem 3.23 (just change some parameters) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/furnstahl/5300-notebooks/master?filepath=week_1%2FTaylor_problem_3.23.ipynb)
 
 * Taylor, problem 4.29 (change the function) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/furnstahl/5300-notebooks/master?filepath=week_1%2FTaylor_problem_4.29_template.ipynb)
+
+* Taylor, problem 4.37 (change the potential energy function) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/furnstahl/5300-notebooks/master?filepath=week_1%2FTaylor_problem_4.37_template.ipynb) 
