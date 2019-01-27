@@ -1,4 +1,4 @@
-# Jupyter notebooks for 5300 Week 3 (Spring, 2019)
+# Jupyter notebooks for 5300 Week 4 (Spring, 2019)
 
 Binder links:
 
