@@ -2,6 +2,6 @@
 
 Binder links:
 
-* All week 3 notebooks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/furnstahl/5300-notebooks/master?filepath=week_4)
+* All week 4 notebooks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/furnstahl/5300-notebooks/master?filepath=week_4)
 
 
